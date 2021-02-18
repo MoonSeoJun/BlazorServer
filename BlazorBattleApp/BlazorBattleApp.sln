@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31005.135
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorBattleApp.Server", "Server\BlazorBattleApp.Server.csproj", "{475BD344-29D4-479F-98E0-0725AD1E1669}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorBattleApp.Server", "Server\BlazorBattleApp.Server.csproj", "{475BD344-29D4-479F-98E0-0725AD1E1669}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorBattleApp.Client", "Client\BlazorBattleApp.Client.csproj", "{7C6603EC-455A-4955-894D-FC492C2DAA5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorBattleApp.Client", "Client\BlazorBattleApp.Client.csproj", "{7C6603EC-455A-4955-894D-FC492C2DAA5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorBattleApp.Shared", "Shared\BlazorBattleApp.Shared.csproj", "{902F6E33-D879-4CDE-A557-8DC5D7D45C67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorBattleApp.Shared", "Shared\BlazorBattleApp.Shared.csproj", "{902F6E33-D879-4CDE-A557-8DC5D7D45C67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

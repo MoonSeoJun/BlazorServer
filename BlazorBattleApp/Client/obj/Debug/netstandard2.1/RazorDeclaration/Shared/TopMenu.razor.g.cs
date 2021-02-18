@@ -83,10 +83,15 @@ using BlazorBattleApp.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 6 "D:\BlazorServer\BlazorBattleApp\Client\Shared\TopMenu.razor"
+#line 7 "D:\BlazorServer\BlazorBattleApp\Client\Shared\TopMenu.razor"
        
     [Parameter]
     public int Bananas { get; set; } = 100;
+
+    public void AddBananas(int value)
+    {
+        Bananas += value;
+    }
 
 #line default
 #line hidden
