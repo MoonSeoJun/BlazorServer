@@ -84,14 +84,23 @@ using BlazorBattleApp.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 18 "D:\BlazorServer\BlazorBattleApp\Client\Pages\Build.razor"
+#line 25 "D:\BlazorServer\BlazorBattleApp\Client\Pages\Build.razor"
        
     int selectedUnitId = 1;
 
+    bool needMoreBananas = false;
+
     public void BuildUnit()
     {
-        BlazorBattleApp.Shared.Unit selectedUnit = 
+        BlazorBattleApp.Shared.Unit selectedUnit =
             UnitService.Units.FirstOrDefault(unit => unit.Id == selectedUnitId);
+
+        if(BananaService.Bananas < selectedUnit.BananaCost)
+        {
+            needMoreBananas = true;
+            return;
+        }
+
         BananaService.EatBananas(selectedUnit.BananaCost);
         UnitService.AddUnit(selectedUnitId);
     }
