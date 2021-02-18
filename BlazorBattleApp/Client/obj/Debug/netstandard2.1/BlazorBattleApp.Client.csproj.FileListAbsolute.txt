@@ -381,8 +381,8 @@ D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\compressed\_fram
 D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\compressed\_framework\_bin\Blazored.Toast.dll.br
 D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Login.razor.g.cs
 D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\Razor\Pages\Login.razor.g.cs
-D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\QxAvr9u1aL2HUV0Ahtxn5CM9_eo4_Nsq_IJ1Uzkn2Nc=.hash
 D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\x5Z7aflxxUA51e21ADuzPRuRxX2UOv-sQdnocEzPpdk=.hash
-D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\ATSDburzJIK7CSI7KmPksIFnb8iTcE7g54-zrFBnKZ8=.hash
 D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\WxjX2JpyyGi2sSFUrGqeEbS-nYOFnbVEWyLku7vmouk=.hash
-D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\WH282T1fudgDEFQ-pgC-ej-pR0D5HMJeMhwxYajPtBc=.hash
+D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\pfEla3p2uRWtVZ7Y8nI920RyCmJx8-u7LmCgxrXdsA0=.hash
+D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\pTPgVWrl5UULMKz5U4UH2g2wEFKGXRJCap_Z9q_6Zgg=.hash
+D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\A2-hJ2euivOwqe6nS2nUSIk1PgBUHeANzKV8iw5VQwA=.hash

@@ -98,12 +98,15 @@ using Blazored.Toast.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 27 "D:\BlazorServer\BlazorBattleApp\Client\Pages\Login.razor"
+#line 33 "D:\BlazorServer\BlazorBattleApp\Client\Pages\Login.razor"
        
     private BlazorBattleApp.Shared.UserLogin user = new BlazorBattleApp.Shared.UserLogin();
 
+    bool isAuthenticated = false;
+
     private void HandleLogin()
     {
+        isAuthenticated = true;
     }
 
 #line default

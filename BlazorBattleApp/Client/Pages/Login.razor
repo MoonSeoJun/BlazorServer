@@ -1,33 +1,42 @@
 ﻿@page "/login"
 
-<h3>Login</h3>
+@if (isAuthenticated)
+{
+    <h3>WelCome, @user.Username!</h3>
+}
+else
+{
+    <h3>Login</h3>
 
-<EditForm Model="@user" OnValidSubmit="HandleLogin">
-    <DataAnnotationsValidator />
-    <p>
-        <label>
-            Username
-        </label>
-        <div>
-            <InputText id="username" @bind-Value="user.Username" />
-        </div>
-    </p>
-    <p>
-        <label>
-            Password
-        </label>
-        <div>
-            <InputText id="password" type="password" @bind-Value="@user.Password" />
-        </div>
-    </p>
-    <button type="submit" class="btn btn-primary">Login</button>
-    <ValidationSummary />
-</EditForm>
-
+    <EditForm Model="@user" OnValidSubmit="HandleLogin">
+        <DataAnnotationsValidator />
+        <p>
+            <label>
+                Username
+            </label>
+            <div>
+                <InputText id="username" @bind-Value="user.Username" />
+            </div>
+        </p>
+        <p>
+            <label>
+                Password
+            </label>
+            <div>
+                <InputText id="password" type="password" @bind-Value="@user.Password" />
+            </div>
+        </p>
+        <button type="submit" class="btn btn-primary">Login</button>
+        <ValidationSummary />
+    </EditForm>
+}
 @code {
     private BlazorBattleApp.Shared.UserLogin user = new BlazorBattleApp.Shared.UserLogin();
 
+    bool isAuthenticated = false;
+
     private void HandleLogin()
     {
+        isAuthenticated = true;
     }
 }
