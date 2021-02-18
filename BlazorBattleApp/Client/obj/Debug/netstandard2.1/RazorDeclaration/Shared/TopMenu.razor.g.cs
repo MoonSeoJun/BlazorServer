@@ -85,6 +85,7 @@ using BlazorBattleApp.Client.Shared;
 #nullable restore
 #line 6 "D:\BlazorServer\BlazorBattleApp\Client\Shared\TopMenu.razor"
        
+    [Parameter]
     public int Bananas { get; set; } = 100;
 
 #line default
