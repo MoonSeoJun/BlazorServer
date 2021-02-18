@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BlazorBattleApp.Client.Services
 {
-    public class UintService : IUnitService
+    public class UnitService : IUnitService
     {
         public IList<Unit> Units { get; } = new List<Unit>
         {
