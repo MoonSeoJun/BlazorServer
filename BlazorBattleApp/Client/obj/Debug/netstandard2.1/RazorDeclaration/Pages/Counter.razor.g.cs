@@ -90,7 +90,7 @@ using BlazorBattleApp.Client.Shared;
 
     private void IncrementCount()
     {
-        currentCount++;
+        currentCount += 2;
     }
 
 #line default

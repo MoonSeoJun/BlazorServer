@@ -1,0 +1,9 @@
+D:\BlazorServer\BlazorBattleApp\Shared\bin\Debug\netstandard2.1\BlazorBattleApp.Shared.deps.json
+D:\BlazorServer\BlazorBattleApp\Shared\bin\Debug\netstandard2.1\BlazorBattleApp.Shared.dll
+D:\BlazorServer\BlazorBattleApp\Shared\bin\Debug\netstandard2.1\BlazorBattleApp.Shared.pdb
+D:\BlazorServer\BlazorBattleApp\Shared\obj\Debug\netstandard2.1\BlazorBattleApp.Shared.csprojAssemblyReference.cache
+D:\BlazorServer\BlazorBattleApp\Shared\obj\Debug\netstandard2.1\BlazorBattleApp.Shared.AssemblyInfoInputs.cache
+D:\BlazorServer\BlazorBattleApp\Shared\obj\Debug\netstandard2.1\BlazorBattleApp.Shared.AssemblyInfo.cs
+D:\BlazorServer\BlazorBattleApp\Shared\obj\Debug\netstandard2.1\BlazorBattleApp.Shared.csproj.CoreCompileInputs.cache
+D:\BlazorServer\BlazorBattleApp\Shared\obj\Debug\netstandard2.1\BlazorBattleApp.Shared.dll
+D:\BlazorServer\BlazorBattleApp\Shared\obj\Debug\netstandard2.1\BlazorBattleApp.Shared.pdb
