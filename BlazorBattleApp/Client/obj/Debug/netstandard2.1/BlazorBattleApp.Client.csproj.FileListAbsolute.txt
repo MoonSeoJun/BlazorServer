@@ -369,6 +369,6 @@ D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\BlazorBattleApp.
 D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\BlazorBattleApp.Client.pdb
 D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\RazorDeclaration\Shared\TopMenu.razor.g.cs
 D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\Razor\Shared\TopMenu.razor.g.cs
-D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\EBRila4IBghvMgxqVolRj4SvLtNb2jQfDW-slM-NEao=.hash
-D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\DOsouq4vybU7SCYoPOdIGOTGCk8vUIpf9pN7zTlrG5c=.hash
-D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\nX0MhTUzujzWrQrEXSQRUqzYlx6tBeRLXdLfEp_euLE=.hash
+D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\iViReiGYOsfJxprT-BeEj0Za5GGvX1_dTUZmgw6HUhk=.hash
+D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\CYk9lEcy7Ll4xVlj1afDojZVnxLMUKG9fCeGjjqsrQM=.hash
+D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\VkRURhK3TxIftE1baBtjG3VjeF5ba2NcJ1SbiDkWvEo=.hash
