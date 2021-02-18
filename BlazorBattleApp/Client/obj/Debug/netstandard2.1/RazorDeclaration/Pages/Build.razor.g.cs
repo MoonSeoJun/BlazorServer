@@ -83,6 +83,18 @@ using BlazorBattleApp.Client.Shared;
         {
         }
         #pragma warning restore 1998
+#nullable restore
+#line 8 "D:\BlazorServer\BlazorBattleApp\Client\Pages\Build.razor"
+       
+    private void EatBananas(int amount)
+    {
+        BananaService.EatBananas(amount);
+    }
+
+#line default
+#line hidden
+#nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private BlazorBattleApp.Client.Services.IBananaService BananaService { get; set; }
     }
 }
 #pragma warning restore 1591

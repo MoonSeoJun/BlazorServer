@@ -1,8 +1,14 @@
 ﻿@page "/build"
+@inject BlazorBattleApp.Client.Services.IBananaService BananaService
 
 <h3>Build</h3>
 
-@code {
+<button @onclick="() => EatBananas(10)">Eat Bananas</button>
 
+@code {
+    private void EatBananas(int amount)
+    {
+        BananaService.EatBananas(amount);
+    }
 }
 
