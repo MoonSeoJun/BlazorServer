@@ -6,7 +6,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "BlazorBattleApp.Client.dll": "sha256-nwCrL2PJ39Nb5OWlrmgkyforLYMPCBFw0LPgfANsJ7I=",
+      "BlazorBattleApp.Client.dll": "sha256-+dYYFZ1MaJDECJroFyBlb4aQOdxTBKyXtlfZnslm2lY=",
       "System.Net.Http.Json.dll": "sha256-99dseBOagY3mzu5Y8Eqm8gRI+o8QbbCp7R2Ew9bQ+5E=",
       "System.Buffers.dll": "sha256-ZxXy75PYbzJxNfAc\/SAP1nUYm4gt1jSaOpFnBb9m85M=",
       "mscorlib.dll": "sha256-BaZPMj95+YNe3G4ckTGD6szZFwZeA2MOHn91zTGKDeU=",
@@ -62,7 +62,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-czNf3btAeBW\/vvID5LAfgcsNZ+GM3ssVuPaMflcg0rs="
     },
     "pdb": {
-      "BlazorBattleApp.Client.pdb": "sha256-q6qLK3iNs6tjy+jNvISZ\/7e\/GTwg7ztyOZhWkXG10V8=",
+      "BlazorBattleApp.Client.pdb": "sha256-+244Kjkgafvjy\/X\/ASkWqgYRXcMkNmVcsB4qGGPJKRk=",
       "BlazorBattleApp.Shared.pdb": "sha256-TnEVMdzYG4siNOTfRMaEdhRnhz1l+Jsv7Hvb+Az4Sxg="
     },
     "runtime": {

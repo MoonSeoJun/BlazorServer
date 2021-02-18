@@ -98,17 +98,19 @@ using Blazored.Toast.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 59 "D:\BlazorServer\BlazorBattleApp\Client\Pages\Register.razor"
+#line 60 "D:\BlazorServer\BlazorBattleApp\Client\Pages\Register.razor"
        
     BlazorBattleApp.Shared.UserRegister user = new BlazorBattleApp.Shared.UserRegister();
 
     void HandleRegistration()
     {
+        NavigationManager.NavigateTo("login");
     }
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private NavigationManager NavigationManager { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private BlazorBattleApp.Client.Services.IUnitService UnitService { get; set; }
     }
 }
