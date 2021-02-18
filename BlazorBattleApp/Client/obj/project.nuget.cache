@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "d65acrstsvyMXODgD9uagF3CBYXub3X7n/Lq8IL8xY2cRuVeXEEzdMdMRt/igdjO3g2jSiBWS8JCBT2azAHNng==",
+  "dgSpecHash": "MdbrD06PENA0BKXTGZNpcfKsp36LO/GeSPirpE5UsJTssZSROMgI0l2AQMwnrhevIWK9LBD9y9khx7OqsCvDVw==",
   "success": true,
   "projectFilePath": "D:\\BlazorServer\\BlazorBattleApp\\Client\\BlazorBattleApp.Client.csproj",
   "expectedPackageFiles": [
@@ -34,7 +34,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.jsinterop\\3.1.6\\microsoft.jsinterop.3.1.6.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.jsinterop.webassembly\\3.2.1\\microsoft.jsinterop.webassembly.3.2.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.net.http.json\\3.2.0\\system.net.http.json.3.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",

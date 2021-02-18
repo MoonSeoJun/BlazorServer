@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xeX7+bRcVCFAQOQwyiw9W+2Qv90e86xW4aATzy/4KAzXMIY0qx66HeKldBb+QCjaY4gZ6Gj4uQci6vmxBhf8qw==",
+  "dgSpecHash": "bivnZ7Sw+6ouFvv7WtaD1WYaWJHqzlZ6EzNCgfofbqrdQSZOKSj7rM8QIiFwycPiIecAk9Tg2GOaNDr4qSv00A==",
   "success": true,
   "projectFilePath": "D:\\BlazorServer\\BlazorBattleApp\\Shared\\BlazorBattleApp.Shared.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

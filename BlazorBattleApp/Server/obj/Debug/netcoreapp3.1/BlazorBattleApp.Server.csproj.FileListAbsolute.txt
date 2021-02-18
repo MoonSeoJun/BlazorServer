@@ -214,3 +214,4 @@ D:\BlazorServer\BlazorBattleApp\Server\obj\Debug\netcoreapp3.1\BlazorBattleApp.S
 D:\BlazorServer\BlazorBattleApp\Server\obj\Debug\netcoreapp3.1\BlazorBattleApp.Server.pdb
 D:\BlazorServer\BlazorBattleApp\Server\obj\Debug\netcoreapp3.1\BlazorBattleApp.Server.genruntimeconfig.cache
 D:\BlazorServer\BlazorBattleApp\Server\bin\Debug\netcoreapp3.1\Blazored.Toast.dll
+D:\BlazorServer\BlazorBattleApp\Server\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll

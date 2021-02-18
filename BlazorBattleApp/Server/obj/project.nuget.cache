@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "29kEysOaSrb5yPJVobLUB68iZEiqpLSP7ORogyiGihzcW+1MsUhK26aG/VDDfaP4l8w0DTf4Kq6O0LDT9Le/8Q==",
+  "dgSpecHash": "49ZXuArfyKVLkwPRG6RZQofc5OZ3Y6zPn92E69przvHwGVAhd12WIK/oAziDWhIoKsdJdDZDWYss2FAQEeuuYA==",
   "success": true,
   "projectFilePath": "D:\\BlazorServer\\BlazorBattleApp\\Server\\BlazorBattleApp.Server.csproj",
   "expectedPackageFiles": [
@@ -30,6 +30,7 @@
     "C:\\Users\\user\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.jsinterop\\3.1.6\\microsoft.jsinterop.3.1.6.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.jsinterop.webassembly\\3.2.1\\microsoft.jsinterop.webassembly.3.2.1.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.net.http.json\\3.2.0\\system.net.http.json.3.2.0.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512"
   ],
