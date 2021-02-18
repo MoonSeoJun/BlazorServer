@@ -72,6 +72,20 @@ using BlazorBattleApp.Client.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "D:\BlazorServer\BlazorBattleApp\Client\_Imports.razor"
+using Blazored.Toast;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 11 "D:\BlazorServer\BlazorBattleApp\Client\_Imports.razor"
+using Blazored.Toast.Services;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/")]
     public partial class Index : Microsoft.AspNetCore.Components.ComponentBase
     {

@@ -75,6 +75,20 @@ using BlazorBattleApp.Client.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 10 "D:\BlazorServer\BlazorBattleApp\Client\_Imports.razor"
+using Blazored.Toast;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 11 "D:\BlazorServer\BlazorBattleApp\Client\_Imports.razor"
+using Blazored.Toast.Services;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/build")]
     public partial class Build : Microsoft.AspNetCore.Components.ComponentBase
     {
@@ -84,7 +98,7 @@ using BlazorBattleApp.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 25 "D:\BlazorServer\BlazorBattleApp\Client\Pages\Build.razor"
+#line 26 "D:\BlazorServer\BlazorBattleApp\Client\Pages\Build.razor"
        
     int selectedUnitId = 1;
 
@@ -98,6 +112,7 @@ using BlazorBattleApp.Client.Shared;
         if(BananaService.Bananas < selectedUnit.BananaCost)
         {
             needMoreBananas = true;
+            ToastService.ShowError("Not enough bananas!", ":(");
             return;
         }
 
@@ -108,6 +123,7 @@ using BlazorBattleApp.Client.Shared;
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IToastService ToastService { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private BlazorBattleApp.Client.Services.IUnitService UnitService { get; set; }
         [global::Microsoft.AspNetCore.Components.InjectAttribute] private BlazorBattleApp.Client.Services.IBananaService BananaService { get; set; }
     }

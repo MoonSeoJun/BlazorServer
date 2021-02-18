@@ -1,4 +1,5 @@
 ﻿using BlazorBattleApp.Shared;
+using Blazored.Toast.Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
