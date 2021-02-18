@@ -371,8 +371,10 @@ D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\RazorDeclaration
 D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\Razor\Shared\AddBananas.razor.g.cs
 D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Build.razor.g.cs
 D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\Razor\Pages\Build.razor.g.cs
-D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\Awn-AxhctcfoqF6EZ1gHHocP3NhxNBGLd20FYHtKI08=.hash
 D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\zTtoio6JcHR02OwYASOaw4seiLihjWrJAB_mtrqdp10=.hash
-D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\rp_3A8xPv9utD9Byxdi57Q0NaFvc5R68khgBO-iCBWs=.hash
 D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\GvlYIlfelN6BSMdO6xS2laPlw4gXB0uADdaUbhez150=.hash
-D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\oPBh8ObHwgz3pLnlxky86zhKC4bSbOEgTCN7JBcDqkI=.hash
+D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\RazorDeclaration\Pages\Army.razor.g.cs
+D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\Razor\Pages\Army.razor.g.cs
+D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\xLDRNL890eNFuXFm-jNLYp5nkfQc2uF0wFFMemEK4B8=.hash
+D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\3aqD8Qp98_t84lICz5uAbjDbLwCEoZeE-00LalCFiNU=.hash
+D:\BlazorServer\BlazorBattleApp\Client\obj\Debug\netstandard2.1\integrity\bkOvcXQ27RJA5WO47E7ivNacWyK0_aJHoNP1MhyDjdA=.hash
