@@ -20,10 +20,7 @@ namespace BlazorBattleApp.Client.Services
         public void AddUnit(int unitId)
         {
             Unit unit = Units.First(unit => unit.Id == unitId);
-            MyUnits.Add(new UserUnit { UnitId = unit.Id, HitPoints = unit.HitPoints });
-
-            Console.WriteLine($"{unit.Title} was built");
-            Console.WriteLine($"Your army size : {MyUnits.Count}");
+            MyUnits.Add(new UserUnit { UnitId = unit.Id, HitPoints = unit.HitPoints });        
         }
     }
 }
