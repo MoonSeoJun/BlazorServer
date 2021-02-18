@@ -83,19 +83,18 @@ using BlazorBattleApp.Client.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 2 "D:\BlazorServer\BlazorBattleApp\Client\Shared\AddBananas.razor"
+#line 4 "D:\BlazorServer\BlazorBattleApp\Client\Shared\AddBananas.razor"
        
-    [Parameter]
-    public EventCallback<int> BananasAdded { get; set; }
 
     public void IncreaseBananaCount()
     {
-        BananasAdded.InvokeAsync(10);
+        BananaService.AddBananas(10);
     }
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private BlazorBattleApp.Client.Services.IBananaService BananaService { get; set; }
     }
 }
 #pragma warning restore 1591
